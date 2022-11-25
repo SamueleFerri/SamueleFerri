@@ -13,4 +13,5 @@
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=samueleferri&show_icons=true&theme=tokyonight" alt="stats"></p>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueleferri&layout=compact)](https://github.com/samueleferri/github-readme-stats" alt="statss"></p>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=samueleferri)](https://github.com/samueleferri/github-readme-stats" alt="stass"></p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
