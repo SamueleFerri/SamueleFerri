@@ -14,4 +14,12 @@
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=samueleferri&show_icons=true&theme=tokyonight" alt="stats"></p>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueleferri&layout=compact)](https://github.com/samueleferri/github-readme-stats" alt="statss"></p>
 <!--START_SECTION:waka-->
+
+```text
+PHP          7 hrs 33 mins   ██████████░░░░░░░░░░░░░░░   40.16 %
+HTML         6 hrs 20 mins   ████████▒░░░░░░░░░░░░░░░░   33.74 %
+CSS          4 hrs 10 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.21 %
+Other        23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+```
+
 <!--END_SECTION:waka-->
