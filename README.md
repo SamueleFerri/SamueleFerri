@@ -16,8 +16,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-ActionScript   43 mins         ████████████████████████▓   98.39 %
-Other          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+ActionScript   1 hr 33 mins    ████████████████▒░░░░░░░░   65.85 %
+Ezhil          27 mins         █████░░░░░░░░░░░░░░░░░░░░   19.54 %
+TSQL           7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
+Objective-C    7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
+Assembly       4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
 ```
 
 <!--END_SECTION:waka-->
