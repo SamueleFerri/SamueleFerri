@@ -16,7 +16,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java                    17 mins         █████████████████████████   99.95 %
+ANTLR v4 grammar file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Text                    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
