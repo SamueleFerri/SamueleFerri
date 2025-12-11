@@ -16,10 +16,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Jupyter                 1 hr 42 mins    █████████████████████▒░░░   85.54 %
-Java                    17 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.45 %
-ANTLR v4 grammar file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Text                    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Jupyter   1 hr 42 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
