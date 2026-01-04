@@ -16,11 +16,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-HTML       50 mins         ████████████▓░░░░░░░░░░░░   50.77 %
-Markdown   25 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.96 %
-TOML       13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.21 %
-CSS        5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
-YAML       5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
