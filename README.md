@@ -16,8 +16,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-HTML   19 mins         ████████████████████████▒   97.66 %
-TOML   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
