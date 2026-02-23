@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuele Ferri</h1>
 <h3 align="center">A developer from Italy</h3>
 <!-- https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif -->
-<img align="right" magin-right="10px" alt="coding" width="400" src="prog.gif">
+<img align="center"  alt="coding" width="400" src="prog.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samueleferri&label=Profile%20views&color=0e75b6&style=flat" alt="samueleferri" /> </p>
 
 <!--START_SECTION:instagram
