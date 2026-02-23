@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samuele Ferri</h1>
 <h3 align="center">A developer from Italy</h3>
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Multitasking.gif">
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samueleferri&label=Profile%20views&color=0e75b6&style=flat" alt="samueleferri" /> </p>
 
 <!--START_SECTION:instagram
