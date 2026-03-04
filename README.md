@@ -19,11 +19,11 @@ END_SECTION:instagram-->
 <!--START_SECTION:waka-->
 
 ```txt
-Java             4 hrs 42 mins         ██████████████████████▒░░   89.01 %
-Other            19 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
-Markdown         10 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
-HTML             4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-GitIgnore file   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Java             7 hrs 17 mins         ████████████████████████░   96.39 %
+Markdown         11 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+HTML             4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+GitIgnore file   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Text             0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
