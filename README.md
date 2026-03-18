@@ -19,11 +19,10 @@ END_SECTION:instagram-->
 <!--START_SECTION:waka-->
 
 ```txt
-Scala                   4 hrs 11 mins         ████████████▒░░░░░░░░░░░░   49.09 %
-Java                    3 hrs 45 mins         ███████████░░░░░░░░░░░░░░   44.04 %
-ANTLR v4 grammar file   14 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
-GitIgnore file          8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-Markdown                8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+Scala                   4 hrs 48 mins         ███████████████░░░░░░░░░░   60.06 %
+Java                    3 hrs 3 mins          █████████▓░░░░░░░░░░░░░░░   38.13 %
+Markdown                8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+ANTLR v4 grammar file   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
