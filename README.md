@@ -19,10 +19,10 @@ END_SECTION:instagram-->
 <!--START_SECTION:waka-->
 
 ```txt
-Scala                   4 hrs 48 mins         ███████████████░░░░░░░░░░   60.06 %
-Java                    3 hrs 3 mins          █████████▓░░░░░░░░░░░░░░░   38.13 %
-Markdown                8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
-ANTLR v4 grammar file   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Scala                   5 hrs 26 mins         ███████████████▓░░░░░░░░░   62.95 %
+Java                    3 hrs 3 mins          █████████░░░░░░░░░░░░░░░░   35.37 %
+Markdown                8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+ANTLR v4 grammar file   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
