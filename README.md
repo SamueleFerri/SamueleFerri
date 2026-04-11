@@ -19,8 +19,7 @@ END_SECTION:instagram-->
 <!--START_SECTION:waka-->
 
 ```txt
-Java    2 hrs 25 mins         █████████████▒░░░░░░░░░░░   53.77 %
-Scala   2 hrs 5 mins          ███████████▓░░░░░░░░░░░░░   46.23 %
+Java   2 hrs 24 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
