@@ -19,7 +19,8 @@ END_SECTION:instagram-->
 <!--START_SECTION:waka-->
 
 ```txt
-Java   2 hrs 24 mins         █████████████████████████   100.00 %
+Java       4 hrs 45 mins         ████████████████████████▒   97.59 %
+Markdown   7 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
 ```
 
 <!--END_SECTION:waka-->
