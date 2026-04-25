@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samuele Ferri</h1>
 <!-- <h3 align="center">A developer from Italy</h3> -->
-<h2>🎓 Alma Mater Studiorum - University of Bologna</h2> 
+<h3>🎓 Alma Mater Studiorum - University of Bologna</h3> 
 <p>
   • Master's Degree in Computer Science and Engineering | Currently Enrolled<br>
   • Bachelor's Degree in Computer Science and Engineering
